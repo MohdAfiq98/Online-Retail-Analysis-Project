@@ -16,7 +16,7 @@ This data analysis project aims to provide insights into the sales performance o
 we seek to identify trends, make data-driven reccomendations, and gain a deeper understanding of the retail performance.
 
 
-## 📅 Data Sources
+## Data Sources
 - Online Retail : The primary dataset used for this analysis is the Online Retail.csv from [Kaggle.com](https://www.kaggle.com/datasets/rupakroy/online-retail)
 - The Online Retail contains transactional informations included with 8 columns showing the InvoiceNo, StockCode, Description, Quantity, UnitPrice, InvoiceDate, CustomerID, and Country. 
 
