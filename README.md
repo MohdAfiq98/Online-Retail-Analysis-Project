@@ -13,7 +13,7 @@
 ## Project Overview
 
 This data analysis project aims to provide insights into the sales performance of an online retail over the year of 2010 and 2011. By analyzing various aspects of the data, 
-we seek to identify trends, make data-driven reccomendations, and gain a deeper understanding of the retail performance.
+we seek to identify trends, make data-driven recomendations, and gain a deeper understanding of the retail performance.
 
 
 ## Data Sources
