@@ -1,11 +1,11 @@
 # Online Retail Analyst Project
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#Project-Overview)
 - [Data Sources](#Data-Sources)
 - [Tools](#Tools)
-- [Data Preparation and Exploration](Data-Preparation-and-Exploration)
-- [Data Cleaning and Data Analysis](Data-Cleaning-and-Data-Analysis)
+- [Data Preparation and Exploration](#Data-Preparation-and-Exploration)
+- [Data Cleaning and Data Analysis](#Data-Cleaning-and-Data-Analysis)
 - [Dashboard Report and Findings](#Dashboard-Report-and-Findings)
 - [Limitations](#Limitations)
 - [Reference](#Reference)
